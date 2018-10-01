@@ -1,4 +1,4 @@
-<h1><a id="IIS_Server_Configs_0"></a>IIS Server Configs</h1>
+<h1><a id="IIS_Server_Configs_0"></a>IIS Server Configs web.config</h1>
 <p>For angular 6 in one server<br>
 For Laravel API in another server (with CORS issue)</p>
 <h1><a id="About_it_4"></a>About it</h1>
